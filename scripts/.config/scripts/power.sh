@@ -4,7 +4,7 @@ host=$(hostname)
 # Options
 shutdown='Shutdown'
 reboot='Reboot'
-lock=' Lock'
+lock='Lock'
 suspend='Suspend'
 logout='Logout'
 yes='Yes'
