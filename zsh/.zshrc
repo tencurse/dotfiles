@@ -119,3 +119,5 @@ source /usr/share/nvm/init-nvm.sh
 export FPATH="~/.config/eza/completions/zsh:$FPATH"
 export EDITOR=nvim
 export VISUAL=nvim
+export PATH="$HOME/.local/bin:$PATH"
+export TWEEGO_PATH="$HOME/.local/share/tweego"
